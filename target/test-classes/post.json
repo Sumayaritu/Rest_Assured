@@ -1,0 +1,17 @@
+{
+  "students1": [
+    {
+      "id": 1,
+      "body": "some students",
+      "postId": 100
+    }
+  ],
+  "students2": [
+    {
+      "id": 2,
+      "title": "json-server",
+      "author": "Sumaya"
+    }
+  ],
+  "students3": { "name": "Anik" }
+}
